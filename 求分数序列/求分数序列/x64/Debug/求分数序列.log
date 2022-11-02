@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\c-_code\求分数序列\求分数序列\源.cpp(11,13): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c-_code\求分数序列\求分数序列\源.cpp(13,14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  求分数序列.vcxproj -> D:\c-_code\求分数序列\x64\Debug\求分数序列.exe
