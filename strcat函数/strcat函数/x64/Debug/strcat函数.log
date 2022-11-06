@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\c-_code\strcat函数\strcat函数\源.cpp(36,2): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+D:\c-_code\strcat函数\strcat函数\源.cpp(36,16): error C2440: “return”: 无法从“int *”转换为“int”
+D:\c-_code\strcat函数\strcat函数\源.cpp(36,15): message : 没有使该转换得以执行的上下文
